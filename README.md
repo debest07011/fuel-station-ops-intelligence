@@ -190,11 +190,11 @@ If you found this project valuable or learned something from it, consider giving
 ### Executive Overview
 ![Executive Dashboard](visuals/executive_overview.png)
 
-### Operations Audit
-![Operations Audit](visuals/operations_audit.png)
+### Shift Otimization
+![Shift Optimization](visuals/Shift Optimization.jpeg)
 
 ### Pricing & Profitability
-![Pricing Dashboard](visuals/pricing_profitability.png)
+![Pricing Dashboard](Shift Optimization.jpeg)
 
 ### Throughput Analysis
 ![Throughput Dashboard](visuals/throughput_analysis.png)
