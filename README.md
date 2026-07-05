@@ -174,9 +174,9 @@ I enjoy solving real business problems using **SQL, Power BI, DAX, Excel, and da
 
 ### Connect with me
 
-* 💼 LinkedIn: **[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/azeez-ibraheem/)**
-* 🌐 Portfolio: **[https://yourportfolio.com](https://debest07011.github.io/Portfolio/)**
-* 📧 Email: **[your.email@example.com](mailto:azeezibrahee25@gmail.com)**
+* 💼 LinkedIn: **(https://www.linkedin.com/in/azeez-ibraheem/)**
+* 🌐 Portfolio: **(https://debest07011.github.io/Portfolio/)**
+* 📧 Email: **[mailto:azeezibrahee25@gmail.com]**
 
 ---
 
