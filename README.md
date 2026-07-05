@@ -188,13 +188,13 @@ If you found this project valuable or learned something from it, consider giving
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Dashboard](visuals/executive_overview.png)
+![Executive Dashboard](./visuals/Shift%Optimization.jpeg)
 
 ### Shift Otimization
-![Shift Optimization](visuals/Shift Optimization.jpeg)
+![Shift Optimization](visuals/Shift%Optimization.jpeg)
 
 ### Pricing & Profitability
-![Pricing Dashboard](Shift Optimization.jpeg)
+![Pricing Dashboard](Shift%Optimization.jpeg)
 
 ### Throughput Analysis
 ![Throughput Dashboard](visuals/throughput_analysis.png)
